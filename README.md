@@ -14,11 +14,11 @@ This repository serves as a personal collection of Python learning materials. Wh
 
 The repository is organized into folders based on different topics and difficulty levels. The folder structure is designed to make it easy for you to navigate and find relevant content.
 
- . assignments: Contains various Python assignments covering different topics.
+ - assignments: Contains various Python assignments covering different topics.
 
- . exercises: Includes a set of exercises to practice and reinforce your Python skills.
+ - exercises: Includes a set of exercises to practice and reinforce your Python skills.
  
- . Feel free to explore each folder to find content that suits your learning needs.
+ - Feel free to explore each folder to find content that suits your learning needs.
 
 ### Topics Covered
 The repository covers a broad range of Python topics, including but not limited to:
